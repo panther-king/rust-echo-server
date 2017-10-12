@@ -1,5 +1,5 @@
 [package]
-name = "echo-server"
+name = "rust-echo-server"
 version = "0.1.0"
 authors = ["Taro Yamashita <taro.ymst@gmail.com>"]
 
